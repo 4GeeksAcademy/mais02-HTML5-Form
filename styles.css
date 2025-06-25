@@ -1,0 +1,39 @@
+body{
+    padding-top: 50px;
+}
+
+.col, div.border-top{
+    background-color: rgba(217, 229, 243, 0.685);
+}
+.alert{
+    margin: 20px 10px 20px 2px;
+    width: 1112px;
+
+}
+
+#cardnum{
+    font-size: x-large;
+}
+
+#cardsystems{
+    background-color: grey;
+    width: 43%;
+    border-radius: 3px;
+    margin-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#buttons{
+    text-align: end;
+    margin: 10px 15px 10px 0;
+}
+
+#undertext{
+    color: grey;
+    font-size: small;
+}
+
+label{
+    font-weight: 500;
+}
